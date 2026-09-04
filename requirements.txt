@@ -1,0 +1,8 @@
+beautifulsoup4==4.14.3
+opencv-python==4.13.0.92
+playwright==1.58.0
+prompt-toolkit==3.0.53
+requests==2.33.1
+
+# Optional fallback decoder. On Windows this also requires the native zbar library.
+# pyzbar==0.1.9

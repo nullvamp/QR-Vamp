@@ -1,0 +1,31 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+output/
+reports/
+*_analysis.json
+*_network.csv
+*_scripts.txt
+*_screenshot.png
+
+.env
+.env.*
+*.log
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Local investigation material and legacy working copies
+test.png
+test_analysis.json
+test_network.csv
+test_scripts.txt
+test_screenshot.png
+New folder/
+logo-terminal-exact.txt
+dfir-logo-terminal-small.txt
+tests/
